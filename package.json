@@ -1,0 +1,22 @@
+{
+  "name": "hangman",
+  "version": "1.0.0",
+  "description": "a Hangman game created using constructor functions in Javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bogdawg54/Hangman.git"
+  },
+  "author": "Graham Bass",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Bogdawg54/Hangman/issues"
+  },
+  "homepage": "https://github.com/Bogdawg54/Hangman#readme",
+  "dependencies": {
+    "prompt": "^0.2.14"
+  }
+}
